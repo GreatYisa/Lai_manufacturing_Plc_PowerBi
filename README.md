@@ -110,4 +110,4 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 ![Dashboard image](https://github.com/GreatYisa/Lai_manufacturing_Plc_PowerBi/blob/main/Screenshot%202024-10-08%20144803.png)
 
 ### Dataset used:
-[Dataset]
+[Dataset](https://github.com/GreatYisa/Lai_manufacturing_Plc_PowerBi/blob/main/Dataset/Manufacturing_data.csv)
